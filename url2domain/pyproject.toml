@@ -1,0 +1,13 @@
+[project]
+name = "url2domain"
+version = "1.0.0"
+dependencies = [
+    "tldextract",
+]
+
+[project.scripts]
+url2domain = "url2domain.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

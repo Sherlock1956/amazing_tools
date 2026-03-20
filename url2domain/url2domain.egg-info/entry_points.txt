@@ -1,0 +1,2 @@
+[console_scripts]
+url2domain = url2domain.cli:main

@@ -1,0 +1,7 @@
+pyproject.toml
+url2domain/cli.py
+url2domain.egg-info/PKG-INFO
+url2domain.egg-info/SOURCES.txt
+url2domain.egg-info/dependency_links.txt
+url2domain.egg-info/entry_points.txt
+url2domain.egg-info/top_level.txt
